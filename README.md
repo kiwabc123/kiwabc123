@@ -43,13 +43,10 @@ Git • GitHub • Vite • npm • Debugging tools
 
 ---
 
-## GitHub Stats
+## Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiwabc123&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwabc123&layout=compact&theme=default&hide_border=true)
+- GitHub: [@kiwabc123](https://github.com/kiwabc123)
 
 ---
 
-## GitHub Activity
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+_This profile highlights selected projects and ongoing learning in frontend and full-stack development._
