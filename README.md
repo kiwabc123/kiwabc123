@@ -1,59 +1,52 @@
 # Kiw
 
-Frontend-focused developer building practical web apps and small tools.
-Most of my work is centered on **TypeScript**, **React**, and modern frontend development, with additional projects in **Python**, **JavaScript**, **Vue**, and **Java**.
+## Frontend Developer | React • TypeScript • Modern Web Applications
+
+Frontend developer with hands-on experience building responsive web applications, dashboards, internal tools, and workflow-focused products. My projects are primarily built with **TypeScript**, **React**, and modern frontend tooling, with additional experience across **Python**, **JavaScript**, **Vue**, and **FastAPI**.
+
+I enjoy creating clean user interfaces, structuring maintainable code, and turning practical product ideas into working applications.
 
 ---
 
-## About Me
+## Professional Focus
 
-- Building UI-focused apps and dashboards
-- Interested in real-time systems, automation, and useful internal tools
-- Enjoy turning ideas into practical products through hands-on projects
-
----
-
-## Featured Projects
-
-- **myDashboard** — TypeScript dashboard application
-- **badminton-scoring-system** — TypeScript app for match scoring workflows
-- **ig-not-following-back** — TypeScript utility project
-- **Order-Product-Calculator** — React + TypeScript calculator with SOLID principles and tests
-- **Local_AI_assistant** — Python-based AI assistant project
-- **VendingMachineApplication** — Python/FastAPI + React/Vite application
-- **realtimePatientQueue** — TypeScript real-time queue management app
-- **company-profile** — TypeScript company profile project
+- Building responsive and user-focused frontend applications
+- Developing dashboards, admin systems, and workflow tools
+- Working with real-time features, business logic, and data-driven interfaces
+- Improving code quality through reusable components and clear structure
 
 ---
 
-## Repository Highlights
+## Selected Projects
 
-### Main Languages
-- TypeScript
-- JavaScript
-- Python
-- Vue
-- Java
-
-### Project Themes
-- Dashboards and admin systems
-- Queue and hospital management tools
-- Utility and automation projects
-- Frontend experiments and demos
-- Full-stack practice apps
+- **myDashboard** — Dashboard-focused TypeScript application
+- **Order-Product-Calculator** — React + TypeScript project applying SOLID principles and testing practices
+- **realtimePatientQueue** — Real-time queue management application
+- **Simple_Hospital_Queue_Management** — Workflow-oriented queue management system
+- **badminton-scoring-system** — Match scoring application with practical UI flows
+- **VendingMachineApplication** — Full-stack project using Python/FastAPI with React/Vite
+- **Local_AI_assistant** — Python-based AI experimentation project
+- **api-builder** — TypeScript project focused on API-related tooling
 
 ---
 
-## Tech Stack
+## Core Skills
 
 **Frontend**  
 React • TypeScript • Angular • JavaScript • Vue • HTML • CSS
 
-**Backend / App Logic**  
-Node.js • Express • FastAPI
+**Backend / Application Logic**  
+Node.js • Express • FastAPI • REST APIs
 
-**Tools**  
-Git • GitHub • Vite • npm
+**Development Tools**  
+Git • GitHub • Vite • npm • Debugging tools
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiwabc123&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwabc123&layout=compact&theme=default&hide_border=true)
 
 ---
 
